@@ -1,7 +1,1 @@
-PAGE RANK ALGORITHM WITH PYTHON AND PYSPARK
-
-Using python to get url and its suburl then calculate the page rank
-
--use generator in python to store data
-
--use dfs to get url and its suburl as graph
+![MMDS ETL](https://github.com/user-attachments/assets/3fd50787-36d9-4586-908f-4dc45ae1a8df)
